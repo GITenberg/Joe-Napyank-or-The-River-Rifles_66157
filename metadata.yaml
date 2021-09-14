@@ -1,5 +1,8 @@
 _repo: Joe-Napyank-or-The-River-Rifles_66157
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66157-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66157#Joe-Napyank-or-The-River-Rifles
 gutenberg_issued: '2021-08-28'
 identifiers:
   gutenberg: '66157'
